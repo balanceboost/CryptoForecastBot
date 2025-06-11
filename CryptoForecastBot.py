@@ -28,11 +28,11 @@ logger = logging.getLogger('__name__')
 
 # Конфигурация стратегии
 CONFIG = {
-    'BINANCE_API_KEY': 'qmDPqr3UOzHRZ614dt6RzxLDvJpzpqefjByw3jX7MctnFFr6IOqUcpFFXF9zAuYG',
-    'BINANCE_API_SECRET': 'Tk7kmt3uYcMmrdl2MJ0aZBViAGddMeVpZgoCKnnwUAum321RqLwM9wp5qIVhOOAu',
-    'NEWS_API_KEY': 'e8b8ed1e42ce45e5ba1d3692d469385c',
-    'TELEGRAM_BOT_TOKEN': '7672817810:AAEIKbVGgGxzUfw0i8pg6whBvLsxK5dzw2A',
-    'TELEGRAM_CHAT_ID': '-1002327613436',
+    'BINANCE_API_KEY': '',
+    'BINANCE_API_SECRET': '',
+    'NEWS_API_KEY': '',
+    'TELEGRAM_BOT_TOKEN': '',
+    'TELEGRAM_CHAT_ID': '',
     'TRADING_PAIRS': ['BTC/USDT', 'ETH/USDT', 'BNB/USDT', 'SOL/USDT', 'CFX/USDT', 'JTO/USDT', 'GMX/USDT', 'FET/USDT', 'XRP/USDT', 'ADA/USDT', 'DOGE/USDT', 'AVAX/USDT', 'TRX/USDT', 'DOT/USDT', 'LINK/USDT', 'TON/USDT', 'SHIB/USDT', 'LTC/USDT', 'BCH/USDT', 'NEAR/USDT', 'APT/USDT', 'HBAR/USDT', 'PEPE/USDT', 'FIL/USDT', 'SUI/USDT', 'ARB/USDT', 'OP/USDT', 'ICP/USDT', 'VET/USDT', 'ALGO/USDT', 'INJ/USDT', 'GALA/USDT', 'THETA/USDT', 'FLOW/USDT', 'XLM/USDT', 'ZIL/USDT', 'SAND/USDT', 'MANA/USDT', 'CHZ/USDT'],  # Список пар для анализа, например ['BTC/USDT', 'ETH/USDT'], если пуст использует 'MAX_SYMBOLS'
     'TIMEFRAMES': ['5m', '15m', '30m', '1h', '2h', '4h', '8h', '1d'],  # Таймфреймы для анализа
     'UPDATE_INTERVAL': 60,  # Интервал обновления анализа (сек)
