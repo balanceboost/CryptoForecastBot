@@ -271,9 +271,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## Disclaimer
 
 Cryptocurrency trading involves high risks. The bot’s forecasts are not financial advice. Use this bot at your own risk. The author is not responsible for any financial losses.
-
-Проект распространяется под лицензией MIT. Подробности в файле `LICENSE`.
-
-## Предупреждение
-
-Торговля криптовалютами сопряжена с высокими рисками. Прогнозы бота не являются финансовыми рекомендациями. Используйте бота на свой страх и риск. Автор не несёт ответственности за финансовые убытки.
